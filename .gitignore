@@ -6,3 +6,7 @@ __pycache__/
 *.dll
 *.so
 *.dylib
+setup.py
+app.log
+a_venv
+Nteq_assignment.egg-info
