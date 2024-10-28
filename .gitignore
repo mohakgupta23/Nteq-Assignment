@@ -1,0 +1,12 @@
+.env
+config
+__pycache__/
+*.py[cod]
+*.pyo
+*.dll
+*.so
+*.dylib
+setup.py
+app.log
+a_venv
+Nteq_assignment.egg-info
