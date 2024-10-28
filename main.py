@@ -24,5 +24,3 @@ def ingestion(api, table_name):
     except Exception as e:
         logging.error(f"Error: {e} occured.")
         raise
-
-    
